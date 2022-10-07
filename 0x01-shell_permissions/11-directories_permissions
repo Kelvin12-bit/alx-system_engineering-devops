@@ -1,2 +1,2 @@
 #!/bin/bash
-chown kelvin:staff *
+chown vincent:staff *
